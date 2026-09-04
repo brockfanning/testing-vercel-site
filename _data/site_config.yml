@@ -52,7 +52,7 @@ data_fields:
   series: ''
 date_formats: []
 disclaimer:
-  phase: ''
+  phase: fooo
   message: ''
   hidden: false
 email_contacts:
